@@ -43,5 +43,4 @@ The BERT model is trained and evaluated. Training function iterates through the 
 The trained BERT model is used to make predictions on the test set. Classification metrics are computed and displayed, including precision, recall, F1-score, etc.
 
 ## Demo
-Check out the video demonstration of the project here:
-![](https://github.com/prernamittal/NLP_BERT/blob/main/NLPmodel_demo.webm)
+Check out the video demonstration of the project [here](https://drive.google.com/file/d/1DYsUL3ALT_PFblXF40itrLhDqOmbElpo/view)
